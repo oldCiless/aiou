@@ -1,0 +1,7 @@
+{
+    "name": "Aiou",
+    "description": "Aiou tests.",
+    "repository": "https://github.com/ciless/aiou",
+    "logo": "https://rawgit.com/heroku/node-js-sample/master/public/node.svg",
+    "keywords": ["aiou", "tests"]
+}
